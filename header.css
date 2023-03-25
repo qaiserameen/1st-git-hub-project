@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(253, 41, 3);
+}
+
+.logo{
+    width: 30%;
+    height: 150px;
+    float: left;
+    background-color: rgb(7, 235, 129);
+    }
+.logo img{
+    width: 40%;
+    margin-top: 40px;
+    height: 70px;
+  
+}
+.menue li{
+display: inline;
+float: left;
+margin: 15px;
+padding: 15px;
+margin-left: 15px;
+margin-top: 21px;
+}
+
+.menue{
+    width: 70%;
+    background-color: rgb(29, 204, 189);
+    float: left;
+}

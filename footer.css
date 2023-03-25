@@ -1,0 +1,27 @@
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(243, 5, 5);
+}
+
+.footer .company-over-view {
+    width: 40%;
+    height: 200px;
+    border-right: solid 1px;
+    float: left;
+}
+
+.footer .company-over-view .logo2 img {
+    width: 40%;
+    height: 200px;
+   }
+.links {
+    width: 30%;
+    height: 200px;
+    float: left;
+    border-right: solid 1px;
+}
+.links li, .offices li{
+    list-style: none;
+    margin: 15px;
+}
